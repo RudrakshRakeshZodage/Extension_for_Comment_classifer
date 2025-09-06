@@ -34,7 +34,4 @@ AI-generated comments are highlighted in **red**, while human-written comments a
 - **HTML / CSS / JavaScript** — Frontend for browser extension.
 - **Google Chrome Extension API** — Integration point for deployment.
 
----
 
-## Model Performance
-**Confusion Matrix:**
